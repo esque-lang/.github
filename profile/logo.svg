@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="esque">
+  <g fill="none" stroke="#5B5BFF" stroke-width="14" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M70 34 L36 34 L36 166 L70 166" />
+    <path d="M130 34 L164 34 L164 166 L130 166" />
+    <line x1="80" y1="100" x2="120" y2="100" />
+  </g>
+</svg>
